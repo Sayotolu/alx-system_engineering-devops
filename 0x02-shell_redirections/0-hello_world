@@ -1,0 +1,3 @@
+#!/bin/bash
+echo -e '\necho Hello,World' > 0-hello_world
+:wq
